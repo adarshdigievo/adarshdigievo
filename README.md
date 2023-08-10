@@ -11,5 +11,5 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [It is said that, in Python everything is an object. I took that statement literally.](https://adarshdigievo.github.io/posts/everything-is-an-object/)
+- [It is said that, in Python everything is an object. I took that statement literally.](https://blog.adarshd.dev/posts/everything-is-an-object/)
 <!-- BLOG-POST-LIST:END -->
