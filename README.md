@@ -11,5 +11,6 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [It is said that, in Python everything is an object. I took that statement literally.](https://blog.adarshd.dev/posts/everything-is-an-object/)
+- [Building a Python REPL Themed Portfolio Website](https://blog.adarshd.dev/posts/building-a-portfolio-REPL/)
+- [It is said that, in Python everything is an object. I took that literally.](https://blog.adarshd.dev/posts/everything-is-an-object/)
 <!-- BLOG-POST-LIST:END -->
