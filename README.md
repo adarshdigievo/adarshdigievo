@@ -11,8 +11,8 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Partition method of Python strings](https://blog.adarshd.dev/posts/partition-method-of-python-str/)
 - [List from Typing module is inheritable](https://blog.adarshd.dev/posts/til-list-from-typing-module-is-inheritable/)
 - [When I met Guido van Rossum](https://blog.adarshd.dev/posts/when-i-met-guido-van-rossum/)
 - [Thread Safety in Python](https://blog.adarshd.dev/posts/thread-safety-in-python/)
-- [Building a Python REPL Themed Portfolio Website](https://blog.adarshd.dev/posts/building-a-portfolio-REPL/)
 <!-- BLOG-POST-LIST:END -->
