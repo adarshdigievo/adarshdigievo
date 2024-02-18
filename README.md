@@ -11,8 +11,8 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Thread Local Storage in Python](https://blog.adarshd.dev/posts/thread-local-storage-in-python/)
 - [Evolution of the `sort` in Python and the Role of `functools.cmp_to_key`](https://blog.adarshd.dev/posts/evolution-of-python-sort-and-cmp_to_key/)
 - [Partition method of Python strings](https://blog.adarshd.dev/posts/partition-method-of-python-str/)
 - [List from Typing module is inheritable](https://blog.adarshd.dev/posts/til-list-from-typing-module-is-inheritable/)
-- [When I met Guido van Rossum](https://blog.adarshd.dev/posts/when-i-met-guido-van-rossum/)
 <!-- BLOG-POST-LIST:END -->
