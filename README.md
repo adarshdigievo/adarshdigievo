@@ -11,8 +11,8 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Will AI Replace Junior Developers? I Asked Experts at Pycon US](https://blog.adarshd.dev/posts/pycon-us-ai-and-future-of-programming/)
 - [Thread Safety in Python - My first tutorial for Real Python](https://blog.adarshd.dev/posts/thread-safety-real-python-tutorial/)
 - [Thread Local Data in Python](https://blog.adarshd.dev/posts/thread-local-storage-in-python/)
 - [Evolution of the `sort` in Python and the Role of `functools.cmp_to_key`](https://blog.adarshd.dev/posts/evolution-of-python-sort-and-cmp_to_key/)
-- [Partition method of Python strings](https://blog.adarshd.dev/posts/partition-method-of-python-str/)
 <!-- BLOG-POST-LIST:END -->
