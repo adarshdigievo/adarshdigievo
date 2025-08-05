@@ -11,8 +11,8 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding with Junie - JetBrains AI Coding Agent](https://blog.adarshd.dev/posts/vibe-coding-with-jetbrains-junie/)
 - [Will AI Replace Junior Developers? I Asked Experts at Pycon US](https://blog.adarshd.dev/posts/pycon-us-ai-and-future-of-programming/)
 - [Thread Safety in Python - My first tutorial for Real Python](https://blog.adarshd.dev/posts/thread-safety-real-python-tutorial/)
 - [Thread Local Data in Python](https://blog.adarshd.dev/posts/thread-local-storage-in-python/)
-- [Evolution of the `sort` in Python and the Role of `functools.cmp_to_key`](https://blog.adarshd.dev/posts/evolution-of-python-sort-and-cmp_to_key/)
 <!-- BLOG-POST-LIST:END -->
